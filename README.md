@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Zhibek
-- 👀 I’m interested in programming
