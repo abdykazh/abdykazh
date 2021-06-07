@@ -1,1 +1,2 @@
 - 👋 Hi, I’m Zhibek
+- Small hobby projects
